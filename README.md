@@ -94,9 +94,9 @@ Developer Tip: Use VS Code extension **Live Server** for auto-refresh while edit
 
 Here are some screenshots of the Smart Task Analyzer application:
 
-![Smart Task Analyzer UI - 1](./assets/screenshots/one.png)
-![Smart Task Analyzer UI - 2](./assets/screenshots/two.png)
-![Smart Task Analyzer UI - 3](./assets/screenshots/three.png)
+![Smart Task Analyzer UI - 1](https://raw.githubusercontent.com/yash-wavhal/smart-task-analyzer/main/assets/one.png)
+![Smart Task Analyzer UI - 2](https://raw.githubusercontent.com/yash-wavhal/smart-task-analyzer/main/assets/two.png)
+![Smart Task Analyzer UI - 3](https://raw.githubusercontent.com/yash-wavhal/smart-task-analyzer/main/assets/three.png)
 
 ---
 
